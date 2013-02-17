@@ -22,6 +22,7 @@ public class MainActivity extends Activity {
 	@Override
 	protected void onDestroy() {
 		// TODO 기현입니다
+		// TODO 기현입니다2
 		super.onDestroy();
 	}
 
